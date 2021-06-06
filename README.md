@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**commandROD/commandrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm commandROD, But you can call me Command.
 
-Here are some ideas to get you started:
+### About me:
+- 🔭 I’m currently working on Minecraft Minigames Plugins for Spigot/PaperSpigot.
+- 🌱 I’m learning Minecraft Plugin development, using the PaperSpigot API.
+- 👯 I’m planning on learning Java, (Maybe) Kotlin, HTML+CSS/PHP, JS/NodeJS, C++, (Maybe) C# and Python.
+- 💬 Ask me about anything related to Java, Minecraft, or computers in general!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm from Israel! 🇮🇱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contacts
+- All Socials: @commandrod
+- Instagram: commandrod1
+- Discord: Command#7902
