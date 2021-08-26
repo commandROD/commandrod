@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm  commandROD (aka Command)
 
-### I'm a Java Developer in 9th grade of highschool.
+### I'm a Java Developer in 9th grade.
 
  - 🤖 I code Minecraft Plugins.
 
