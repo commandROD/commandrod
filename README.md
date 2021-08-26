@@ -2,9 +2,11 @@
 
 ### I'm a Java Developer in 9th grade of highschool.
 
-🤖 I code Minecraft Plugins.
-👨‍🎓 I wanna learn C++ or Website Development in the future.
-🥅 Current Goal: "Finish" learning Java.
+ - 🤖 I code Minecraft Plugins.
+
+ - 👨‍🎓 I wanna learn C++ or Website Development in the future.
+
+ - 🥅 Current Goal: "Finish" learning Java.
 
 ### Socials: solo.to/command
 
