@@ -1,14 +1,12 @@
-### Hello there 👋, I'm  commandrod (aka Command)
 
-### I'm a Java Developer in 9th grade.
+# Hello 👋, I'm Command
+I'm a Java Developer who mainly make [Minecraft](https://minecraft.net) plugins, but I'm looking to experience with more things soon.<br>
+My current biggest project is CommandAPI, which is a private API that will help me make plugins more efficiently.
 
- - 🤖 I code Minecraft Plugins.
+## Tools:
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java) ![Intellij](https://img.shields.io/badge/-Intellij-black?style=for-the-badge&logo=intellijidea) ![Ubuntu](https://img.shields.io/badge/-Ubuntu%20Server-black?style=for-the-badge&logo=ubuntu)
 
- - 👨‍🎓 I want to make Websites (front-end & back-end), or be a Software Developer.
+## Socials: 
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/commandrod) [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)](https://discord.com/users/303127585905180674)
 
- - 🥅 Current Goal: Learn Website Development (either React or Angular)
-
-### Socials: solo.to/command
-
-![commandrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=commandrod&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=commandrod&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=commandrod&show_icons=true&theme=dracula)
